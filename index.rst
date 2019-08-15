@@ -13,14 +13,5 @@ LionsBase Community Documentation
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Contents:
 
    news/*
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
