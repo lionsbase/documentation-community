@@ -15,7 +15,7 @@ Welcome to the community-driven LionsBase documentation.
 Please choose the topic you are interested in:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :glob:
 
    news/*
