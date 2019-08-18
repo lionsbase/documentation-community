@@ -21,29 +21,34 @@ Activity, Peace poster etc.)
 
 **A News article consists of the following elements:**
 
-| Title
-| Teaser
-| Date
-| Detailed text with or without images
+- Title
+- Teaser
+- Date
+- Detailed text with or without images
 
-| **What is the purpose of News
-  **\ Inform the public and members of events through Lions Web sites.
-| Share information with social networks.
-| Archive past activities.
+What is the purpose of News
+---------------------------
 
-| **What does it take for a great News**
-| an exceptional occasion
-| a gripping text
-| an eye-catching photo
+- Inform the public and members of events through Lions Web sites.
+- Share information with social networks.
+- Archive past activities.
 
-**rulings**
+What does it take for a great News
+----------------------------------
 
-| Is the News only for the club or also for the public?
-| Should the News also appear on the district or multiple district Web
-  site?
-| How long should the News be available in the News section?
+- an exceptional occasion
+- a gripping text
+- an eye-catching photo
 
-**Creating News**
+Rulings
+-------
+
+- Is the News only for the club or also for the public?
+- Should the News also appear on the district or multiple district Web site?
+- How long should the News be available in the News section?
+
+Creating News
+-------------
 
 Click on "News" in the directory tree or in the black LionsBase folder
 on the big News icon.
@@ -58,7 +63,8 @@ Select the tab "Create an empty News" A 9-part index appears, important
 are "General", "Content elements" and "Media", possibly also
 "Categories" and "Access".
 
-**Main index: tab "General"**
+Main index: tab "General"
+-------------------------
 
 |image4|
 
@@ -83,7 +89,8 @@ the front page you have to give in the "access" an expiration date.
 images with the text, it is better to enter this all in the "Content
 elements" tab.
 
-**Main Index: Tab “Content Elements”**
+Main Index: Tab “Content Elements”
+----------------------------------
 
 The content elements are used for longer texts and images. Several
 content elements can be inserted. Click on "Content elements" and then
@@ -91,7 +98,8 @@ on "Create new". The mask "Content Elements" opens.
 
 |image5|
 
-**Content elements: Tab “General”**
+Content elements: Tab “General”
+-------------------------------
 
 Now select the type under "General". Usually it is "Text and media" or a
 list of files to download (File links).
@@ -105,7 +113,8 @@ some of the tabs have the same name, they serve different purposes.
 
 |image8|
 
-**Content elements: Tab “Media”**
+Content elements: Tab “Media”
+-----------------------------
 
 |image9|
 
@@ -124,7 +133,8 @@ under "News":**
 
 |image11|
 
-**Content elements: Tab “Access”**
+Content elements: Tab “Access”
+------------------------------
 
 The News on the club's website can basically be seen by all visitors. If
 you want that a content element of the News can only be seen if you are
@@ -145,9 +155,10 @@ category "Internal for Club".**
 
 |image12|
 
-**Main index: tab Media”**
+Main index: tab Media”
+----------------------
 
-see images below!
+See images below!
 
 (Nr.1) The tab "Media" in the main index is used for the photo that
 should appear in the tag-image in the News overview.
@@ -194,7 +205,8 @@ good results.
 
 |image15|
 
-**Main index: tab “Categories”**
+Main index: tab “Categories”
+----------------------------
 
 The "Categories" are important if the image tag is also to be uploaded
 to the district's Web site. It also influences the mobile application on
@@ -209,7 +221,8 @@ district website, where there are a lot of News image-tags.
 
 |image16|
 
-**Main index: tab “Access”**
+Main index: tab “Access”
+------------------------
 
 A news item on the club's website can basically be seen by all visitors.
 If you want a news to be seen only when you are logged in, you can set
@@ -224,7 +237,8 @@ members of your own club, select the category "Internal for Club".**
 
 |image17|
 
-**Main index: tab “Notes”**
+Main index: tab “Notes”
+-----------------------
 
 Notes are for information purposes only for the LionsBase
 Master/Webmaster in TYPO3 internal use. They are limited to 100
@@ -235,7 +249,8 @@ on every page of the 9-part main register.
 
 |image19|
 
-**Make news visible on the club's Web site**
+Make news visible on the club's Web site
+----------------------------------------
 
 News usually appears only under "News [Year]" in the blue tabs on the
 club Web site. If you want News to appear on the club home page, you
@@ -253,7 +268,8 @@ overloading detail views". The remaining information does not have to be
 filled in. Tap on the Un-Hide icon to make everything visible. Do not
 forget to secure.
 
-**Get help!**
+Get help!
+---------
 
 Actually, creating a News is not that difficult, but if you have any
 problems, ask your district LionsBase Master. He will help.
